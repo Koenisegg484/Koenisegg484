@@ -1,5 +1,13 @@
+
+[![](https://visitcount.itsvg.in/api?id=Koenisegg484&icon=4&color=0)](https://visitcount.itsvg.in)
+---
+
+<h2 align="center">
+
 # 💫 About Me:
 👨‍💻 Application developer proficient in Java and Kotlin.  <br>🚀 Currently learning Flutter and React Native.  <br>🤖 Delving into AI/ML projects.  <br>😂 Love to crack dad jokes.  <br>🚴‍♂️ Passionate about cycling.<br>🎉 Fun Fact: Life is like a Git repository – full of commits, but sometimes you just need to revert to a previous version! 🗂️🔄
+</h2>
+
 
 
 ## 🌐 Socials:
@@ -19,6 +27,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Koenisegg484&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Koenisegg484&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
