@@ -69,4 +69,6 @@
 
 ---
 
-This format provides a professional appearance with clear section separations, larger headings, and centered content where appropriate.
+</br>
+[![An image of @idkmr4tyunjay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koenisegg484)](https://holopin.io/@koenisegg484)
+<hr/>
