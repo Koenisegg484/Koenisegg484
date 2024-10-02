@@ -70,5 +70,6 @@
 ---
 
 </br>
-[![An image of @idkmr4tyunjay's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koenisegg484)](https://holopin.io/@koenisegg484)
+
+[![An image of @Koenisegg484's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koenisegg484)](https://holopin.io/@koenisegg484)
 <hr/>
