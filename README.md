@@ -57,15 +57,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
+![](https://github-readme-stats.vercel.app/api?username=Koenisegg484&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Koenisegg484&theme=noctis_minimus&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koenisegg484&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
 </div>
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Koenisegg484&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
