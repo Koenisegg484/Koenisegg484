@@ -4,8 +4,8 @@
 
 ## 💫 About Me
 
-👨‍💻 I am an application developer proficient in Java and Kotlin.<br><br>
-🚀 Currently expanding my skills by learning Flutter and React Native.<br><br>
+👨‍💻 I am an application developer proficient in Flutter and React-Native.<br><br>
+🚀 Currently expanding my skills in backend and Machine learning technologies.<br><br>
 🤖 Exploring the fascinating world of AI/ML through various projects.<br><br>
 😂 Enjoy cracking dad jokes in my spare time.<br><br>
 🚴‍♂️ Passionate about cycling.<br><br>
@@ -20,6 +20,7 @@
 <div align="center">
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
+![Flutter](https://img.shields.io/badge/flutter-%233F42FF.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) 
